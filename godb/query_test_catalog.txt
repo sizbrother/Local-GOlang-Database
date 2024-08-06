@@ -1,0 +1,4 @@
+emp (c0 int, c1 int, c2 int, c3 int, c4 int, c5 int)
+dept (c0 int, c1 int, c2 int)
+hobby (c0 int, c1 int, c2 int, c3 int, c4 int, c5 int)
+hobbies (c0 int, c1 int)
